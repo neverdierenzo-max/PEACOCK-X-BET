@@ -1,0 +1,30 @@
+PEACOCK-X-BET/
+│
+├── .github/
+│   └── workflows/
+│       └── build-apk.yml
+│
+├── app/
+│   ├── build.gradle
+│   │
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           │
+│           ├── java/
+│           │   └── com/
+│           │       └── peacock/
+│           │           └── xbet/
+│           │               └── MainActivity.java
+│           │
+│           ├── res/
+│           │   └── values/
+│           │       └── styles.xml
+│           │
+│           └── assets/
+│               └── index.html
+│
+├── build.gradle
+├── settings.gradle
+├── gradle.properties
+└── README.md
